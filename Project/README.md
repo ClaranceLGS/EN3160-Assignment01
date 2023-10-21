@@ -21,10 +21,6 @@ The SKU-110K dataset collects 11,762 densely packed shelf images from thousands 
 
 Comparison of related benchmarks. #Img.: number of images. #Obj./img.: average items per image. #Cls.: number of object classes (more implies a harder detection problem due to greater appearance variations). #Cls./img.: average classes per image. dense: objects are typically densely packed. Idnt: images contain multiple identical objects or hard-to-separate object sub-regions. BB: bounding box labels are available.
 
-# Our Solution
-We used supervised learning..
-
-
 ## Coding
 We used Jupyter Notebook provided by Google Colab (free version) to write our codes. We run our codes with GPU (Changed CPU to GPU/TPU).
 
