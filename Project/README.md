@@ -1,6 +1,6 @@
 This project is related to one of the CVPR2020-retail vision challenges. The task of the challenge is to detect products in crowded store displays based on the SKU- 110K dataset.
 
-# Challenge Overview : Product Detection in Densely Packed Scenes
+# Challenge Overview: Product Detection in Densely Packed Scenes
 <B> From the web</B> : [Visit](https://retailvisionworkshop.github.io/detection_challenge_2020/)
 
 The world of retail takes the detection scenario to unexplored territories with millions of possible facets and hundreds of heavily crowded objects per image. This challenge is based on the [SKU-110K dataset](https://github.com/eg4000/SKU110K_CVPR19) collected from Trax’s data of supermarket shelves and pushes the limits of detection systems
@@ -19,7 +19,7 @@ The SKU-110K dataset collects 11,762 densely packed shelf images from thousands 
   
 </div>
 
-Comparison of related benchmarks. #Img.: number of images. #Obj./img.: average items per image. #Cls.: number of object classes (more implies a harder detection problem due to greater appearance variations). #Cls./img.: average classes per image. dense: objects are typically densely packed. Idnt: images contain multiple identical objects or hard to separate object sub-regions. BB: bounding box labels are available.
+Comparison of related benchmarks. #Img.: number of images. #Obj./img.: average items per image. #Cls.: number of object classes (more implies a harder detection problem due to greater appearance variations). #Cls./img.: average classes per image. dense: objects are typically densely packed. Idnt: images contain multiple identical objects or hard-to-separate object sub-regions. BB: bounding box labels are available.
 
 # Our Solution
 We used supervised learning..
@@ -48,15 +48,15 @@ https://retailvisionworkshop.github.io/cvpr2020/
 
 https://github.com/shayanalibhatti/Retail-Store-Item-Detection-using-YOLOv5
 
+### Group Members
+#### Clarance L.G.S.
+<p align="left">
+<a href="https://www.linkedin.com/in/leslie-george-sheron-clarance-539323205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="20" /></a>
+</p>
+
 #### Kavindu Kalinga
 <p align="left">
 <a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="15" width="20" /></a>
-<a href="https://twitter.com/yuk_kalinga_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="15" width="20" /></a>
-<a href="https://stackoverflow.com/users/16277941/kavindu-kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-kalinga" height="15" width="20" /></a>
-<a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu.kalinga" height="15" width="20" /></a>
-<a href="https://www.instagram.com/kavindu_kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_kalinga" height="15" width="20" /></a>
-<!-- <a href="https://www.youtube.com/c/uckvw2mrlhn_qxktjxyzahzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckvw2mrlhn_qxktjxyzahzw" height="15" width="20" /></a> -->
-<a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="15" width="20" /></a>
 </p>
 
 
